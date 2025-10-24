@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+:computer: **Ingeniero Mecatronico**
+
+:oncoming_biker: **Fan de las Motos, carreras y simuladores**
+
+:job: **Horus Smart Control**
+
+### Vias de contacto: ###
 <!--
 **Jpovea-Horus/Jpovea-Horus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
