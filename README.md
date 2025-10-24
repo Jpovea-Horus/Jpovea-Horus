@@ -1,12 +1,15 @@
-## Hi there 👋
+## 👋 Hola, soy Jefry Povea  
+💻 **Ingeniero Mecatrónico** apasionado por la tecnología, la automatización y la innovación.  
 
-:computer: **Ingeniero Mecatronico**
+🏍️ **Fan de las motos, las carreras y los simuladores** — siempre buscando precisión y rendimiento, dentro y fuera del circuito.  
 
-:oncoming_biker: **Fan de las Motos, carreras y simuladores**
+🏢 Trabajo en **Horus Smart Control**, desarrollando soluciones inteligentes para sistemas eléctricos y electrónicos.  
 
-:job: **Horus Smart Control**
+📬 **Vías de contacto:**  
+- ✉️ [Correo: jefry.p@horus-sc.com](mailto:jefry.p@horus-sc.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/jpovea) *(actualiza con tu enlace real)*  
+- 🧠 [Portafolio o sitio web personal](https://tu-sitio.com) *(opcional)*  
 
-### Vias de contacto: ###
 <!--
 **Jpovea-Horus/Jpovea-Horus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
